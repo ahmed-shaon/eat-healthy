@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Noto Sans', sans-serif;
+    font-size:45px;
+    color:rgb(63, 63, 63); 
+    margin-top: 80px;   
+    
+}
+.do-orange{
+    color:orange;
+}
+p{
+    color:rgb(141, 139, 139);
+    padding:5px;
+    margin-bottom: 60px;
+    font-size: 19px;
+}
+
+.sec-1{
+    display:flex;
+    margin-bottom:150px;
+    
+}
+.half-width{
+    width:50%;
+    padding: 2%;
+    margin-left:15px;    
+}
+.half-width img{
+    width:90%;
+}
+.order-button{
+    text-decoration: none;
+    background-image:linear-gradient(to right,rgb(255, 136, 0), rgb(255, 92, 64));    
+    padding:15px 30px;    
+    color:white;
+    font-weight: 700;
+    border-radius:25px;
+}
